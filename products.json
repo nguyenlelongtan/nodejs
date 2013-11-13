@@ -1,0 +1,5 @@
+{ "name" : "Product1" , "content" : "Content Product 1" , "updated_at" : { "$date" : "2013-09-19T01:59:30.846Z"} , "_id" : { "$oid" : "523a5a82fdb7a34419000002"} , "__v" : 0}
+{ "name" : "Product 2" , "content" : "Content Product 2" , "updated_at" : { "$date" : "2013-09-19T01:59:39.247Z"} , "_id" : { "$oid" : "523a5a8bfdb7a34419000003"} , "__v" : 0}
+{ "name" : "Product 3" , "content" : "Content Product 3" , "updated_at" : { "$date" : "2013-09-19T01:59:46.901Z"} , "_id" : { "$oid" : "523a5a92fdb7a34419000004"} , "__v" : 0}
+{ "name" : "Product 4" , "content" : "Content Product 4" , "updated_at" : { "$date" : "2013-09-19T01:59:56.304Z"} , "_id" : { "$oid" : "523a5a9cfdb7a34419000005"} , "__v" : 0}
+{ "name" : "Product 5 " , "content" : "Content Product 5" , "updated_at" : { "$date" : "2013-09-19T02:00:05.281Z"} , "_id" : { "$oid" : "523a5aa5fdb7a34419000006"} , "__v" : 0}

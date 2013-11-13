@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "523a5a20fdb7a34419000001"} , "name" : "tan" , "pass" : "123" , "role" : "Admin" , "updated_at" : { "$date" : "2013-09-19T01:57:52.351Z"} , "__v" : 0}
+{ "name" : "tan1" , "pass" : "abc" , "role" : "user" , "updated_at" : { "$date" : "2013-09-19T04:22:42.226Z"} , "_id" : { "$oid" : "523a7c127c04adcc00000001"} , "__v" : 0}
+{ "name" : "tan" , "pass" : "123" , "role" : "user" , "updated_at" : { "$date" : "2013-11-13T07:13:45.771Z"} , "_id" : { "$oid" : "528326a9b2b342d823000001"} , "__v" : 0}
